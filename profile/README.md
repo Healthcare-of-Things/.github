@@ -2,7 +2,7 @@
 
 ## Project Title
 
-[Establishing the Correlation Between Bio-Data and Concentration Levels Utilizing EEG Data]
+**Establishing the Correlation Between Bio-Data and Concentration Levels Utilizing EEG Data**
 
 ## Project Period
  Sep/20/2023 ~ Dec/20/2023 
