@@ -1,10 +1,10 @@
-# 2023_KSW_Fall_Program
+# Establishing the Correlation Between Bio-Data and Concentration Levels Utilizing EEG Data
 
 ### Team HoT
 
-## Project Title
+## Application Title
 
-Establishing the Correlation Between Bio-Data and Concentration Levels Utilizing EEG Data
+CandY - Concentration and You !
 
 ## Project Period
  Sep/20/2023 ~ Dec/20/2023 
