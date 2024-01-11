@@ -1,4 +1,4 @@
-## Establishing the Correlation Between Bio-Data and Concentration Levels Utilizing EEG Data
+# [Establishing the Correlation Between Bio-Data and Concentration Levels Utilizing EEG Data]
 
 ### Team HoT
 
