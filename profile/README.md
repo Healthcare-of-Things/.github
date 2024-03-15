@@ -27,9 +27,9 @@
 | :------------- | :------------------------: | :--------------------------------------------: | :-------------------: | :------------------------------: |
 | Seojeong Park    | Hallym University        | Computer Science                    | diditjwjd@gmail.com | https://github.com/seojeongP     |
 | Seungah Jang  | Jeju National University        | Computer Science and Statistics                    | wkdtmddk6733@gmail.com   | https://github.com/ssaaJang     |
-| Jeongmin Seo | Kyunhee University     | Software Convergence               | balljm@naver.com | https://github.com/jeongmin1217       |
-| Yunhui Lim | Kyunhee University     | Computer Science and Engineering                | lyhhh0320@gmail.com   | https://github.com/YunheeLim    |
-| Byeongsoo Min  | Kyunhee University | Computer Science and Engineering       | qud9783@gmail.com   | https://github.com/Byeongsoo-Min  |
+| Jeongmin Seo | Kyunghee University     | Software Convergence               | balljm@naver.com | https://github.com/jeongmin1217       |
+| Yunhui Lim | Kyunghee University     | Computer Science and Engineering                | lyhhh0320@gmail.com   | https://github.com/YunheeLim    |
+| Byeongsoo Min  | Kyunghee University | Computer Science and Engineering       | qud9783@gmail.com   | https://github.com/Byeongsoo-Min  |
 | Martin Kim | Purdue University        | Computer and Information Technology | 19alswprla@gmail.com    | https://github.com/19alswprla |
 
 ## Research Problem Statements 
